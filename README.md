@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=25&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi+there;I'm+Faysal+Mahmud)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=200&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi+there;I'm+Faysal+Mahmud)](https://git.io/typing-svg)
 
 <a href="">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
