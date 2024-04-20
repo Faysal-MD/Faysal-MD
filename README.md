@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hi;I'm+Faysal+Mahmud)](https://git.io/typing-svg)
 
-<a href="https://shahariar-shibli.github.io">
+<a href="">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 
@@ -22,7 +22,7 @@
     <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
-<a href="https://shahariar-shibli.github.io/files/CV/CV-of-Shibli.pdf">
+<a href="">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
@@ -42,12 +42,3 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Faysal-MD&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
-</div>
-
-< !--
-## Profile Views
-<div align="center">
-    
-![:Faysal-MD](https://count.getloli.com/get/@:shahariar-shibli?theme=asoul)
--->
-</div>
