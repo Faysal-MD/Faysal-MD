@@ -6,11 +6,11 @@
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 
-<a href="mailto:sshibli745@gmail.com">
+<a href="mailto:faysalmmud@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/shahariar-shibli/">
+<a href="https://www.linkedin.com/in/faysalmahmud/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
