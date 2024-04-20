@@ -31,23 +31,22 @@
 ## Github Stats
 <div align="center">
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahariar-shibli&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Faysal-MD&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahariar-shibli&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shahariar-shibli&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Faysal-MD&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Faysal-MD&theme=dracula&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahariar-shibli&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahariar-shibli&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Faysal-MD&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Faysal-MD&theme=apprentice)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahariar-shibli&theme=dracula&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Faysal-MD&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
 </div>
 
 ## Profile Views
 <div align="center">
     
-![:shahariar-shibli](https://count.getloli.com/get/@:shahariar-shibli?theme=asoul)
+![:Faysal-MD](https://count.getloli.com/get/@:shahariar-shibli?theme=asoul)
 
 </div>
