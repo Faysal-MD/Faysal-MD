@@ -22,7 +22,7 @@
     <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
-<a href="https://github.com/Faysal-MD/faysal-mahmud.github.io/blob/main/files/CV/CV_Faysal%20Mahmud.pdf">
+<a href="https://github.com/Faysal-MD/faysal-mahmud.github.io/files/CV/CV_Faysal Mahmud.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
