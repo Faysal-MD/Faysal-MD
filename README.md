@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hey+there;I'm+Faysal+Mahmud)](https://git.io/typing-svg)
 
-<a href="">
+<a href="https://faysal-md.github.io/faysal-mahmud.github.io/">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 
@@ -22,7 +22,7 @@
     <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
 
-<a href="">
+<a href="https://github.com/Faysal-MD/faysal-mahmud.github.io/blob/main/files/CV/CV_Faysal%20Mahmud.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=for-the-badge&logo=adobe">
 </a>  
 
