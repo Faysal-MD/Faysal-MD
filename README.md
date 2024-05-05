@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<!---
 <a href='https://scholar.google.com/citations?user=XMEn-M4AAAAJ&hl=en' target="_blank">
     <img src='https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
@@ -23,7 +24,7 @@
 <a href='https://www.researchgate.net/profile/Faysal-Mahmud-8' target="_blank">
     <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
 </a>
-
+--->
 </div>
 
 ## Github Stats
