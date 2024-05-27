@@ -22,9 +22,9 @@
 </div>
 
 
-<div align="center">
-  <img align="right" alt="Working on My Portfolio" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-</div>
+<!---
+<img align="right" alt="Working on My Portfolio" width="400" height="320"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **SQA Techniques**
@@ -32,9 +32,7 @@
 - 📫 How to reach me: **[faysalmmud@gmail.com](mailto:faysalmmud@gmail.com)**
 - ⚡ Fun fact: **I am Funny**
 
-
-
-
+--->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
