@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning **SQA Techniques**
 - 💬 Ask me about **Android, MEARN**
 - 📫 How to reach me: **[faysalmmud@gmail.com](mailto:faysalmmud@gmail.com)**
-- ⚡ Fun fact: **I am Funny**
+- ⚡ Fun fact is **I am Funny**
 
 --->
 
