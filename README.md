@@ -1,8 +1,5 @@
-[![MasterHead](00086-desk-anim-v0.3.gif)]()
-
 <div align="center">
-
-
+    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=500&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=180&lines=Hey+there,;I'm+Faysal+Mahmud!)](https://git.io/typing-svg)
 
 <!---
