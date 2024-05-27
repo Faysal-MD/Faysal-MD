@@ -21,7 +21,7 @@
 --->
 </div>
 
-<img align="right" alt="Working on My Portfolio" width="200"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
+<img align="right" alt="Working on My Portfolio" width="150"  src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
 
 - 🔭 I’m currently working on **My Portfolio**
