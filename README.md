@@ -28,7 +28,7 @@
 - 🔭 I’m currently working on **My Portfolio**
 - 🌱 I’m currently learning **SQA Techniques**
 - 💬 Ask me about **Software and Technology related informations**
-- 📫 How to reach me: **[faysalmmud@gmail.com](mailto:faysalmmud@gmail.com)**
+- 📫 How to reach me: **[faysalmahmud735@gmail.com](mailto:faysalmahmud735@gmail.com)**
 - ⚡ Fun fact is **I am Funny**
 
 
@@ -36,7 +36,7 @@
 ## Connect with me:
 
 <p align="left">
-<a href="mailto:faysalmmud@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
+<a href="mailto:faysalmahmud735@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/></a>
 <a href="https://www.linkedin.com/in/faysalmahmud/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 
