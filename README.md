@@ -4,11 +4,6 @@
 
 <img align="" alt="Working on My Portfolio" height="315" width="1500"  src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d"/>
 
-
-<!---
-[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://Faysal-MD.io)
---->
-
 <div align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=35&duration=3000&&pause=200&background=BEE8FF18&color=D40404&center=true&multiline=true&random=false&width=800&height=110&lines=Hey+there,;I'm+Faysal+Mahmud!)](https://git.io/typing-svg)
