@@ -29,7 +29,7 @@
 
 
 - 🔭 I’m currently working on **My Portfolio**
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Backend Development with AI**
 - 💬 Ask me about **Software and Technology related informations**
 - 📫 How to reach me: **[faysalmahmud735@gmail.com](mailto:faysalmahmud735@gmail.com)**
 
