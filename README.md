@@ -32,7 +32,6 @@
 - 🌱 I’m currently learning **Backend Development**
 - 💬 Ask me about **Software and Technology related informations**
 - 📫 How to reach me: **[faysalmahmud735@gmail.com](mailto:faysalmahmud735@gmail.com)**
-- ⚡ Fun fact is **I am Funny**
 
 
 
