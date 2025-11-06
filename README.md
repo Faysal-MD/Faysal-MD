@@ -42,6 +42,7 @@
 <a href="https://www.linkedin.com/in/faysalmahmud/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/></a>
 </p>
 
+<!---
 ## Tech Stack:
 
 <div align="left">
@@ -56,7 +57,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="60">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="60">
 </div>
-
+--->
 
 
 ## Github Stats
